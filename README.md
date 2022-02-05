@@ -9,4 +9,4 @@
 
 ## Github Link
 
-[(https://github.com/XinranSong/Pawsltd./edit/main/README.md)]
+([https://github.com/XinranSong/Pawsltd./edit/main/README.md])
