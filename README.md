@@ -9,4 +9,5 @@
 
 ## Github Link
 
-https://github.com/XinranSong/Pawsltd./edit/main/README.md
+Please [click here](https://github.com/XinranSong/Pawsltd./edit/main/README.md) for the github Repository.
+
